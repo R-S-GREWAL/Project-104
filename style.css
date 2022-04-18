@@ -1,0 +1,20 @@
+body {
+    color: rgb(28, 11, 129);
+    background: aqua;
+    font-family: cursive;
+}
+.heading {
+    width: 80%;
+    font-size: 20px;
+    font-family: cursive;
+    color: darkblue;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy {
+    color: blueviolet;
+    font-size: larger;
+}
+#camera {
+    border: 2px dashed darkblue;
+    width: 350px;
+    height: 350px;
+}
